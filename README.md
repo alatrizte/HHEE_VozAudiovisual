@@ -19,7 +19,6 @@ En el archivo **Make_parte_HHEE.py** en la línea 143 escribe tu nombre. En la l
 
 Eso es todo.
 
-
 #### INSTRUCCIONES
 
 En el archivo **lista_producciones.txt** escribe el nombre de la producción donde generastes las horas.  
@@ -29,13 +28,15 @@ Usa el botón **Iniciar** para borrar los campos y que estos vuelvan a su preset
 
 El botón **Añadir** Añade a la lista inferior la jornada que establecistes:  
 
-**_Jornada Establecida_** 
+<image src="./images/Captura desde 2023-07-20 20-56-17.png" alt="captura de pantalla" >
+
+**_Jornada Establecida_**  
 _Día_ selecciona en el desplegable el día de la jornada.  
 _Entrada_ en HH:MM establece la hora en la que según orden de trabajo inicia la jornada laboral.  
 _Salida_ en HH:MM establece la hora de salida según orden de trabajo.  
 _Pausa Comida_ establece en MM el tiempo total de descaso dentro de la jornada. Si esta excede de los 30' estos no computarán como tiempo de jornada. 
 
-**_Jornada Realizada_**
+**_Jornada Realizada_**  
 _Entrada_ en HH:MM la hora en la que iniciaste la jornada. 
 _Salida_ en HH:MM la hora en la que se terminó tu jornada. 
 
