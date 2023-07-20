@@ -1,0 +1,5 @@
+Babel==2.12.1
+pdfrw==0.4
+Pillow==10.0.0
+reportlab==4.0.4
+tkcalendar==1.6.1
